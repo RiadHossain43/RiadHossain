@@ -2614,15 +2614,15 @@ fieldset:disabled a.btn {
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #159a80;
-  border-color: #148f77;
+  background-color: #183153;
+  border-color: #183153;
 }
 .btn-primary:focus,
 .btn-primary.focus {
   color: #fff;
-  background-color: #159a80;
-  border-color: #148f77;
-  box-shadow: 0 0 0 0.2rem rgba(60, 198, 171, 0.5);
+  background-color: #183153;
+  border-color: #183153;
+  box-shadow: 0 0 0 0.2rem rgba(24, 49, 83, 0.5);
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
@@ -10574,7 +10574,7 @@ a.text-dark:focus {
   left: 0;
   transition: all 0.2s ease-in-out;
   opacity: 0;
-  background-color: rgba(26, 188, 156, 0.9);
+  background-color: rgba(24, 49, 83, 0.8);
 }
 .portfolio .portfolio-item .portfolio-item-caption:hover {
   opacity: 1;
