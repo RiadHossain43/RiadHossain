@@ -47,6 +47,14 @@ let data = [
 				Alos has some dom maniputaion tasks and full ecoomerce layout design.`,
 		link:"https://product-ecommerce.herokuapp.com/",
 	},
+	{
+		title:"Musclematchup",
+		imsSrc:"assets/img/portfolio/musclematchup.png",
+		details:`The project muscle matchup is focused on backend and api works. Built with php. The key note to 
+				be pointed is the integration of payment methods using third party sdk also using webcam library.
+				Got experiene in payment through paypal.`,
+		link:"https://www.musclematchup.com/",
+	},
 	
 ]
 export {data};
